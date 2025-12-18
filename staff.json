@@ -1,0 +1,327 @@
+{
+  "teachers": [
+    {
+      "name": "강혜지",
+      "subject": "국어",
+      "homeroom": "1-3",
+      "departments": [
+        "교무기획부"
+      ],
+      "roles": [
+        "학적 담당"
+      ]
+    },
+    {
+      "name": "최송아",
+      "subject": "국어",
+      "homeroom": "3-3",
+      "departments": [
+        "진로진학부"
+      ],
+      "roles": [
+        "학업분석 담당"
+      ]
+    },
+    {
+      "name": "안태진",
+      "subject": "국어",
+      "homeroom": "2-3",
+      "departments": [
+        "교육과정부"
+      ],
+      "roles": [
+        "환경 담당"
+      ]
+    },
+    {
+      "name": "이정",
+      "subject": "국어",
+      "homeroom": null,
+      "departments": [
+        "학력연구부"
+      ],
+      "roles": [
+        "기획 담당"
+      ]
+    },
+    {
+      "name": "박영",
+      "subject": "수학",
+      "homeroom": null,
+      "departments": [
+        "교무기획부"
+      ],
+      "roles": [
+        "장학 담당"
+      ]
+    },
+    {
+      "name": "오욱",
+      "subject": "수학",
+      "homeroom": "3-1",
+      "departments": [
+        "진로진학부"
+      ],
+      "roles": [
+        "부장"
+      ]
+    },
+    {
+      "name": "김희",
+      "subject": "수학",
+      "homeroom": null,
+      "departments": [
+        "학력연구부"
+      ],
+      "roles": [
+        "부장"
+      ]
+    },
+    {
+      "name": "김호",
+      "subject": "수학",
+      "homeroom": "1-4",
+      "departments": [
+        "1학년부"
+      ],
+      "roles": [
+        "기획 담당"
+      ]
+    },
+    {
+      "name": "김석",
+      "subject": "영어",
+      "homeroom": "1-2",
+      "departments": [
+        "학력연구부"
+      ],
+      "roles": [
+        "전학공 담당"
+      ]
+    },
+    {
+      "name": "배진",
+      "subject": "영어",
+      "homeroom": "2-4",
+      "departments": [
+        "2학년부"
+      ],
+      "roles": [
+        "기획 담당"
+      ]
+    },
+    {
+      "name": "노은",
+      "subject": "영어",
+      "homeroom": null,
+      "departments": [
+        "안전인성부"
+      ],
+      "roles": [
+        "기획 담당"
+      ]
+    },
+    {
+      "name": "김민",
+      "subject": "물리",
+      "homeroom": "3-2",
+      "departments": [
+        "진로진학부"
+      ],
+      "roles": [
+        "자율학습 담당"
+      ]
+    },
+    {
+      "name": "신길",
+      "subject": "화학",
+      "homeroom": "2-1",
+      "departments": [
+        "2학년부"
+      ],
+      "roles": [
+        "부장"
+      ]
+    },
+    {
+      "name": "곽현",
+      "subject": "화학",
+      "homeroom": null,
+      "departments": [
+        "교육과정부"
+      ],
+      "roles": [
+        "부장"
+      ]
+    },
+    {
+      "name": "윤희",
+      "subject": "생명과학",
+      "homeroom": "2-2",
+      "departments": [
+        "안전인성부"
+      ],
+      "roles": [
+        "학생안전 담당"
+      ]
+    },
+    {
+      "name": "구현",
+      "subject": "생명과학",
+      "homeroom": null,
+      "departments": [
+        "학력연구부"
+      ],
+      "roles": [
+        "방과후 담당"
+      ]
+    },
+    {
+      "name": "한수",
+      "subject": "지구과학",
+      "homeroom": null,
+      "departments": [
+        "기숙사부"
+      ],
+      "roles": [
+        "부장"
+      ]
+    },
+    {
+      "name": "유나",
+      "subject": "사회",
+      "homeroom": null,
+      "departments": [
+        "교육과정부"
+      ],
+      "roles": [
+        "창체 담당"
+      ]
+    },
+    {
+      "name": "정남",
+      "subject": "역사",
+      "homeroom": "3-4",
+      "departments": [
+        "진로진학부"
+      ],
+      "roles": [
+        "기획 담당"
+      ]
+    },
+    {
+      "name": "이선",
+      "subject": "윤리",
+      "homeroom": null,
+      "departments": [
+        "교무기획부"
+      ],
+      "roles": [
+        "기획 담당"
+      ]
+    },
+    {
+      "name": "권혁",
+      "subject": "한문",
+      "homeroom": null,
+      "departments": [
+        "안전인성부"
+      ],
+      "roles": [
+        "부장"
+      ]
+    },
+    {
+      "name": "이호",
+      "subject": "정보",
+      "homeroom": null,
+      "departments": [
+        "교육과정부"
+      ],
+      "roles": [
+        "기획 담당"
+      ]
+    },
+    {
+      "name": "강윤",
+      "subject": "중국어",
+      "homeroom": null,
+      "departments": [
+        "기숙사부"
+      ],
+      "roles": [
+        "기획 담당"
+      ]
+    },
+    {
+      "name": "차철",
+      "subject": "진로",
+      "homeroom": null,
+      "departments": [
+        "교무기획부"
+      ],
+      "roles": [
+        "부장"
+      ]
+    },
+    {
+      "name": "조근",
+      "subject": "체육",
+      "homeroom": "1-1",
+      "departments": [
+        "1학년부"
+      ],
+      "roles": [
+        "부장"
+      ]
+    },
+    {
+      "name": "김숙",
+      "subject": "전문상담",
+      "homeroom": null,
+      "departments": [
+        "안전인성부"
+      ],
+      "roles": [
+        "상담 담당"
+      ]
+    },
+    {
+      "name": "김정",
+      "subject": "보건",
+      "homeroom": null,
+      "departments": [
+        "안전인성부"
+      ],
+      "roles": [
+        "양호 담당"
+      ]
+    }
+  ],
+  "staff": [
+    {
+      "name": "윤종민",
+      "role": "학교장"
+    },
+    {
+      "name": "정은정",
+      "role": "교감"
+    },
+    {
+      "name": "최준",
+      "role": "행정실장"
+    },
+    {
+      "name": "유서",
+      "role": "영양사"
+    },
+    {
+      "name": "박출",
+      "role": "시설관리"
+    },
+    {
+      "name": "김윤",
+      "role": "행정실무"
+    }
+  ]
+}
